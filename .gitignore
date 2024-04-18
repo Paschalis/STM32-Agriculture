@@ -1,0 +1,18 @@
+# Ignore build and output directories
+build/
+Output/
+
+# Ignore IDE files
+*.project
+*.cproject
+*.settings/
+
+# Ignore compiled binaries
+*.elf
+*.bin
+*.hex
+*.map
+
+# Ignore backup files
+*~
+.#*
