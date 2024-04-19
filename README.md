@@ -3,7 +3,6 @@
 This project demonstrates the integration of various sensors commonly used in agriculture applications on a STM32 microcontroller platform.
 
 ## Overview
-**🚧 Note: This project is currently under construction.**
 The project aims to read data from the following sensors:
 
 - 🌡️ DS18B20 Temperature Sensor
@@ -13,14 +12,14 @@ The project aims to read data from the following sensors:
 
 Each sensor communicates using different protocols, including OneWire, I2C, and analog voltage.
 
-## Requirements
+## 🛒 Requirements
 
 - STM32 microcontroller board with ARM Cortex-M3 CPU
 - STM32CubeIDE for development
 - Libraries and drivers for each sensor
 - Hardware setup for sensor integration
 
-## Getting Started
+## 🚀 Getting Started
 
 1. Clone this repository.
 2. Open the project in STM32CubeIDE.
@@ -30,7 +29,7 @@ Each sensor communicates using different protocols, including OneWire, I2C, and 
 6. Flash the firmware to the STM32 board using STM32CubeIDE.
 7. Monitor the sensor data through the serial interface or any other suitable method.
 
-## Project Structure
+## 📋 Project Structure
 
 - **Hardware**: This folder contains files and documentation related to the hardware setup, such as schematics, datasheets, and connection diagrams.
 
@@ -44,12 +43,15 @@ Each sensor communicates using different protocols, including OneWire, I2C, and 
 - **Documentation**: Contains documentation files related to the project.
 
 
-## Contributing
+## 🤝 Contributing
 
 Contributions to improve the project are welcome! Please feel free to fork the repository, make changes, and submit a pull request.
 
-## 📜 License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## 📜 License 
+
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
  
