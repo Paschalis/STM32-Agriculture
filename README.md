@@ -26,7 +26,7 @@ Each sensor communicates using different protocols, including OneWire, I2C, and 
 3. Configure your project settings and build the firmware.
 4. Install necessary libraries and drivers for each sensor.
 5. Connect the sensors to the STM32 board according to the hardware setup.
-6. Flash the firmware to the STM32 board using STM32CubeIDE.
+6. [Flash](Flash.md)  the firmware to the STM32 board using STM32CubeIDE.
 7. Monitor the sensor data through the serial interface or any other suitable method.
 
 ## 📋 Project Structure
