@@ -1,4 +1,8 @@
-# 🌾 Agriculture Sensor Integration Project ![Under Construction](https://img.shields.io/badge/status-under%20construction-orange)
+# 🌾 Agriculture Sensor Integration Project 
+
+![Under Construction](https://img.shields.io/badge/status-under%20construction-orange)
+
+![Project Image](ProjectImage.png)
 
 This project demonstrates the integration of various sensors commonly used in agriculture applications on a STM32 microcontroller platform.
 
