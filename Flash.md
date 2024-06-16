@@ -11,6 +11,31 @@ Here's how you can do it with each method:
 4. Build your project to compile the code.
 5. Click on "Run" or "Debug" to flash the compiled binary onto the STM32 microcontroller using the ST-Link programmer.
 
+## Upgrade Instructions
+
+## Connecting the Device to Linux
+
+1. Connect the device to your Linux system using an appropriate USB cable.
+
+## Checking Device Connection
+
+1. Open a terminal on your Linux system.
+
+2. Use the `lsusb` command to list USB devices:
+
+lsusb
+
+markdown
+
+
+3. Look for the device in the list. Note down its vendor and product ID.
+
+## Probing Device Information
+
+1. In the terminal, use the following command to probe device information:
+
+st-info --probe
+
 ## Using the Micro-USB Port on the STM32 Board:
 
 1. Connect your STM32 board to your computer via the micro-USB port.
